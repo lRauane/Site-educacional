@@ -1,6 +1,6 @@
 # Site Educacional
-![screenshot](https://user-images.githubusercontent.com/102835801/166078496-a21620b8-4930-4a4a-9a7f-364dd246e70a.png)
-![screencapture-127-0-0-1-5500-index-html-2022-04-29-19_39_13](https://user-images.githubusercontent.com/102835801/166078514-94ddf852-7119-40e2-af31-19949b478e07.png)
+![screenshot (1)](https://user-images.githubusercontent.com/102835801/166078850-d7f67a94-f259-43d9-ba01-04ab3f4c4cf3.png)
+![screencapture-127-0-0-1-5500-index-html-2022-04-29-20_01_44](https://user-images.githubusercontent.com/102835801/166078841-ae83222b-c639-49c1-bd8b-a98e89cb4bbb.png)
 
 ## 🚀 Tecnologias
 
