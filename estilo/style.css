@@ -21,11 +21,13 @@
 }
 
 *{
+
     margin: 0px;
     padding: 0px;
 }
 body{
     background-color: var(--cor0);
+
     font-family: var(--fonte-padrao);
 }
 
@@ -53,10 +55,11 @@ header > p{
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    max-width: 500px;padding-right: 10px;
+    max-width: 500px;
+    padding-right: 10px;
+    margin-bottom: auto;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315)
 
 }   
