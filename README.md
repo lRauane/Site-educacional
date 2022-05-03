@@ -11,3 +11,6 @@
 
 - {Google Fonts} (https://fonts.google.com/)
 - {Emojipedia} (https://emojipedia.org/)
+
+## Acesso 
+você pode acessa esse site por: https://como-surgiu-o-mascote-android.netlify.app/
