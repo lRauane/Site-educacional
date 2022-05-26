@@ -13,4 +13,7 @@
 - {Emojipedia} (https://emojipedia.org/)
 
 ## Acesso 
-você pode acessa esse site por: https://como-surgiu-o-mascote-android.netlify.app/
+você pode acessa esse site no github pages: https://lrauane.github.io/Site-educacional/.
+
+![frame](https://user-images.githubusercontent.com/102835801/170585148-42c51cab-f3c2-4e13-945c-e7f4f2301afd.png)
+
